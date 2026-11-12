@@ -1,0 +1,5 @@
+RequestId,Month,Department,Title,Amount,Status
+R001,2026-11,Engineering,Demo testing equipment,3500,Approved
+R002,2026-11,Operations,Demo training materials,900,Approved
+R003,2026-11,Sales,Demo event materials,1200,Pending
+R004,2026-11,Operations,Demo office accessory,600,Rejected
