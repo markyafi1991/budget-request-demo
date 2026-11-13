@@ -35,3 +35,7 @@ Intended future employee image: `ghcr.io/markyafi1991/budget-request-demo-employ
 ## Evidence and reproduction
 
 No app/report run or customer result is claimed. A fresh-workspace reproduction with exact versions, expected outputs, failure/recovery checks and required accounts is the release gate. Credentials stay local. External services, licenses and tools must be documented before handoff. This repository is currently a planning/source scaffold, not a finished reporting product.
+
+## Reviewed update process
+
+The manual updater and its tests are available in `scripts/project_packages/` and `scripts/tests/test_project_package_updates.py`. It prepares a file-level change packet and opens a draft hub PR with the next manifest and changelog. It does not export private vault files, merge changes, publish releases/images, or test the app/report. See the operating guide and `UPDATER_REVIEW.md` for scope, reviewed hashes and limitations. No unattended schedule is installed.
