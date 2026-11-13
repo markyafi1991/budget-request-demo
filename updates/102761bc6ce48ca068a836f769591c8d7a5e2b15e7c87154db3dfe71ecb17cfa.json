@@ -1,0 +1,190 @@
+{
+  "actor": "Codex; model identifier not independently recorded",
+  "changes": [],
+  "heads": {
+    "markyafi1991/budget-request-demo": "7ec417f593b2f7001d64b7d61a8a7328ee57c49b",
+    "markyafi1991/budget-request-demo-employees": "211de9b37150c4b2c24419b6f10a6a16cc5cb765",
+    "markyafi1991/budget-request-demo-powerapps": "7ff4054078d4a55d880436bec161396852050c71",
+    "markyafi1991/budget-request-demo-powerbi": "848c8db058907557c0719d5352402271e5721039"
+  },
+  "hub_inventory_sha256": {
+    ".gitignore": "0c8c1190aa78051056bdff51930af82f77044c67eca61f9dbee9c7b01420c225",
+    "PROVENANCE.md": "9a02bf58514cc2edf91b968cd7001dde99fe59e78889e1f9db6e8dd65087ee8f",
+    "README.md": "cb69c97798f710a1b7b4648b340d15502bbdc5e1213851a514d2cbe8348996bc",
+    "REPRODUCE.md": "fd9a12984a322230ccbea31b736993c26643e77f77437f9c6f3df2c840fba393",
+    "data/README.md": "233e7c87570f9f75dea4e1e64782653650929c2f88046c8f98d8ab20160e73ab",
+    "data/budgets.csv": "9925b3166c6f206b3263c722b994422d73dd90ee18583af4be6ed39de3d8b5b7",
+    "data/requests.csv": "d2e458335a24fcc8921555f084f8b9d688eaedd388a9f7c2a2335262d73e7602",
+    "knowledge/project-brief.md": "f78613373499f3bbf3825d0750ae870c9d2e563ca200174e9f99719572542ee4",
+    "project-package.json": "1d04a24cc78ac4af9494e5156c413d6cac873769667804f983661acaabc30d03"
+  },
+  "next_manifest": {
+    "complete_download_bundle": {
+      "status": "not-built"
+    },
+    "components": [
+      {
+        "commit": "7ff4054078d4a55d880436bec161396852050c71",
+        "files": 2,
+        "private": false,
+        "repository": "markyafi1991/budget-request-demo-powerapps",
+        "sha256": {
+          "README.md": "a7af792ba56f2d28660e7c6fce0d3e622efbe7a2e5aedeebf2ee6e6b58a9e125",
+          "docs/app-contract.md": "71e375fbbfee6363199c37464ba4c3d977cde8c914f8f02819747b2868fd0048"
+        },
+        "source_hashes_checked_at_prepare": true,
+        "url": "https://github.com/markyafi1991/budget-request-demo-powerapps"
+      },
+      {
+        "commit": "848c8db058907557c0719d5352402271e5721039",
+        "files": 2,
+        "private": false,
+        "repository": "markyafi1991/budget-request-demo-powerbi",
+        "sha256": {
+          "README.md": "904856236d52d28942eaaeb404906e2b1d59572dfbf71baef3605548acc35e88",
+          "docs/report-contract.md": "5fd878c776c0f71568756409a0836136bdc7b6bd997abb22875e7a7f31e37df0"
+        },
+        "source_hashes_checked_at_prepare": true,
+        "url": "https://github.com/markyafi1991/budget-request-demo-powerbi"
+      },
+      {
+        "commit": "211de9b37150c4b2c24419b6f10a6a16cc5cb765",
+        "files": 5,
+        "private": false,
+        "repository": "markyafi1991/budget-request-demo-employees",
+        "sha256": {
+          ".gitignore": "2818eb9d1c64883b0da92fd1f158f7ee6b32dd72fedec9681051b68308e55b53",
+          "README.md": "351adc27d97bedff0a3584a7ca496abe98c053b9e6cf0c9f87bec7d67eac0326",
+          "employees/producer/SOUL.md": "20d1052d029ef611b799707531bed7f50a7b602eebbfead2ece9f3ee819bae37",
+          "employees/qa-reviewer/SOUL.md": "2cf017efb813ddea31514330613255367035e8d8af11b176fbf4a92dc78d758b",
+          "instances.example.json": "ecb35fc865663562db3ebbde566994f1eb25070e0f4996536d033d3274978393"
+        },
+        "source_hashes_checked_at_prepare": true,
+        "url": "https://github.com/markyafi1991/budget-request-demo-employees"
+      }
+    ],
+    "data_classification": "synthetic",
+    "employee_image": {
+      "digest": null,
+      "reference": "ghcr.io/markyafi1991/budget-request-demo-employees",
+      "status": "not-built-or-published"
+    },
+    "hub": "https://github.com/markyafi1991/budget-request-demo",
+    "hub_file_sha256": {
+      ".gitignore": "0c8c1190aa78051056bdff51930af82f77044c67eca61f9dbee9c7b01420c225",
+      "PROVENANCE.md": "9a02bf58514cc2edf91b968cd7001dde99fe59e78889e1f9db6e8dd65087ee8f",
+      "README.md": "cb69c97798f710a1b7b4648b340d15502bbdc5e1213851a514d2cbe8348996bc",
+      "REPRODUCE.md": "fd9a12984a322230ccbea31b736993c26643e77f77437f9c6f3df2c840fba393",
+      "data/README.md": "233e7c87570f9f75dea4e1e64782653650929c2f88046c8f98d8ab20160e73ab",
+      "data/budgets.csv": "9925b3166c6f206b3263c722b994422d73dd90ee18583af4be6ed39de3d8b5b7",
+      "data/requests.csv": "d2e458335a24fcc8921555f084f8b9d688eaedd388a9f7c2a2335262d73e7602",
+      "knowledge/project-brief.md": "f78613373499f3bbf3825d0750ae870c9d2e563ca200174e9f99719572542ee4"
+    },
+    "private_repository_dependencies": [],
+    "project": "Budget Request Demo",
+    "reproduction": {
+      "app_built": false,
+      "fixture_totals_checked": true,
+      "fresh_workspace_tested": false,
+      "report_built": false
+    },
+    "schema_version": 1,
+    "status": "scaffold-not-release-ready",
+    "updated": "2026-11-12",
+    "version": "0.1.1"
+  },
+  "previous_changelog": "",
+  "previous_manifest": {
+    "complete_download_bundle": {
+      "status": "not-built"
+    },
+    "components": [
+      {
+        "commit": "7ff4054078d4a55d880436bec161396852050c71",
+        "files": 2,
+        "private": false,
+        "readback_verified": true,
+        "repository": "markyafi1991/budget-request-demo-powerapps",
+        "sha256": {
+          "README.md": "a7af792ba56f2d28660e7c6fce0d3e622efbe7a2e5aedeebf2ee6e6b58a9e125",
+          "docs/app-contract.md": "71e375fbbfee6363199c37464ba4c3d977cde8c914f8f02819747b2868fd0048"
+        },
+        "url": "https://github.com/markyafi1991/budget-request-demo-powerapps"
+      },
+      {
+        "commit": "848c8db058907557c0719d5352402271e5721039",
+        "files": 2,
+        "private": false,
+        "readback_verified": true,
+        "repository": "markyafi1991/budget-request-demo-powerbi",
+        "sha256": {
+          "README.md": "904856236d52d28942eaaeb404906e2b1d59572dfbf71baef3605548acc35e88",
+          "docs/report-contract.md": "5fd878c776c0f71568756409a0836136bdc7b6bd997abb22875e7a7f31e37df0"
+        },
+        "url": "https://github.com/markyafi1991/budget-request-demo-powerbi"
+      },
+      {
+        "commit": "211de9b37150c4b2c24419b6f10a6a16cc5cb765",
+        "files": 5,
+        "private": false,
+        "readback_verified": true,
+        "repository": "markyafi1991/budget-request-demo-employees",
+        "sha256": {
+          ".gitignore": "2818eb9d1c64883b0da92fd1f158f7ee6b32dd72fedec9681051b68308e55b53",
+          "README.md": "351adc27d97bedff0a3584a7ca496abe98c053b9e6cf0c9f87bec7d67eac0326",
+          "employees/producer/SOUL.md": "20d1052d029ef611b799707531bed7f50a7b602eebbfead2ece9f3ee819bae37",
+          "employees/qa-reviewer/SOUL.md": "2cf017efb813ddea31514330613255367035e8d8af11b176fbf4a92dc78d758b",
+          "instances.example.json": "ecb35fc865663562db3ebbde566994f1eb25070e0f4996536d033d3274978393"
+        },
+        "url": "https://github.com/markyafi1991/budget-request-demo-employees"
+      }
+    ],
+    "data_classification": "synthetic",
+    "employee_image": {
+      "digest": null,
+      "reference": "ghcr.io/markyafi1991/budget-request-demo-employees",
+      "status": "not-built-or-published"
+    },
+    "hub": "https://github.com/markyafi1991/budget-request-demo",
+    "hub_file_sha256": {
+      ".gitignore": "0c8c1190aa78051056bdff51930af82f77044c67eca61f9dbee9c7b01420c225",
+      "PROVENANCE.md": "9a02bf58514cc2edf91b968cd7001dde99fe59e78889e1f9db6e8dd65087ee8f",
+      "README.md": "cb69c97798f710a1b7b4648b340d15502bbdc5e1213851a514d2cbe8348996bc",
+      "REPRODUCE.md": "fd9a12984a322230ccbea31b736993c26643e77f77437f9c6f3df2c840fba393",
+      "data/README.md": "233e7c87570f9f75dea4e1e64782653650929c2f88046c8f98d8ab20160e73ab",
+      "data/budgets.csv": "9925b3166c6f206b3263c722b994422d73dd90ee18583af4be6ed39de3d8b5b7",
+      "data/requests.csv": "d2e458335a24fcc8921555f084f8b9d688eaedd388a9f7c2a2335262d73e7602",
+      "knowledge/project-brief.md": "f78613373499f3bbf3825d0750ae870c9d2e563ca200174e9f99719572542ee4"
+    },
+    "private_repository_dependencies": [],
+    "project": "Budget Request Demo",
+    "reproduction": {
+      "app_built": false,
+      "fixture_totals_checked": true,
+      "fresh_workspace_tested": false,
+      "report_built": false
+    },
+    "schema_version": 1,
+    "status": "scaffold-not-release-ready",
+    "updated": "2026-11-12",
+    "version": "0.1.0"
+  },
+  "schema": 1,
+  "summary": "Establish reviewed package change records",
+  "tool_sha256": "a9b614bd2331d4c7f8d291cd4e61689c0a636b2641a96430bd8390953263efb1",
+  "upgrade": "No app or report upgrade; metadata proposal only. Application/report/image acceptance remains pending.",
+  "verification": [
+    {
+      "check": "Updater regression tests",
+      "evidence": "21 tests and 17 subtests passed; command python3 -m pytest scripts/tests/test_project_package_updates.py -q; updater SHA-256 a9b614bd2331d4c7f8d291cd4e61689c0a636b2641a96430bd8390953263efb1",
+      "result": "passed"
+    },
+    {
+      "check": "Power Apps / Power BI / container acceptance",
+      "evidence": "App, report and container image are not implemented or deployed by this metadata update",
+      "result": "not-run"
+    }
+  ],
+  "verification_scope": "Owner/builder-reported evidence; updater did not execute app/report tests",
+  "why": "Give each package update a file inventory, rationale, reported checks, exact versions and upgrade/rollback guidance"
+}
